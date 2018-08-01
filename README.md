@@ -1,7 +1,3 @@
-# Data-Science-Blog
+# Data-Science-Mini-Projects-and-EDA
 
-### Asking questions or posing problems and then solving them with data analysis
-
-### Data Analysis Code for posts I leave on my Data Science Blog
-
-## http://joshdatascience.blogspot.com/
+### Exploring various real world datasets, asking the right questions and getting insights from them
